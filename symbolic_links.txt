@@ -1,0 +1,34 @@
+not working
+re do it once this bug is solved
+https://github.com/flutter/flutter/issues/70269
+
+# Run from cmd as Sys Admin
+mklink /D hafs "E:\Quran Media\pages\hafs-mobile-svg"
+mklink /D qalon "E:\Quran Media\pages\qalon-mobile-svg"
+mklink /D shubah "E:\Quran Media\pages\shubah-mobile-svg"
+mklink /D warsh "E:\Quran Media\pages\warsh-mobile-svg"
+mklink /D douri "E:\Quran Media\pages\douri-mobile-svg"
+
+
+
+
+
+mklink /D "E:\Quran.Android\app\src\main\assets\hafs" "E:\Quran Media\pages\hafs-mobile-svgz"
+
+mklink /D "E:\Quran.Android\asset_pack_douri\src\main\assets\douri" "E:\Quran Media\pages\douri-mobile-svgz"
+
+mklink /D "E:\Quran.Android\asset_pack_qalon\src\main\assets\qalon" "E:\Quran Media\pages\qalon-mobile-svgz"
+
+mklink /D "E:\Quran.Android\asset_pack_shubah\src\main\assets\shubah" "E:\Quran Media\pages\shubah-mobile-svgz"
+
+mklink /D "E:\Quran.Android\asset_pack_warsh\src\main\assets\warsh" "E:\Quran Media\pages\warsh-mobile-svgz"
+
+
+
+
+
+warsh 
+https://everyayah.com/old_index.html
+
+
+
