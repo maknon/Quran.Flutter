@@ -16,7 +16,7 @@ publish_to: 'none' # Remove this line if you wish to publish to pub.dev
 # https://developer.apple.com/library/archive/documentation/General/Reference/InfoPlistKeyReference/Articles/CoreFoundationKeys.html
 # In Windows, build-name is used as the major, minor, and patch parts
 # of the product and file versions while build-number is used as the build suffix.
-version: 2.3.0+2
+version: 3.0.0+6
 
 environment:
   sdk: ^3.7.0
@@ -35,13 +35,13 @@ dependencies:
   # Use with the CupertinoIcons class for iOS style icons.
   #cupertino_icons: ^1.0.8
 
-  flutter_svg: ^2.2.4
+  flutter_svg: ^2.3.0
   url_launcher: ^6.3.2
   shared_preferences: ^2.5.5
-  just_audio: ^0.10.5
+  just_audio: ^0.10.6
   #just_audio: ^0.9.46 TODO the workable version in ios !! check new versions after 0.10.5
   #just_audio_windows: ^0.2.2
-  wakelock_plus: ^1.4.0
+  wakelock_plus: ^1.7.0
 
   just_audio_media_kit: ^2.1.0
   media_kit_libs_windows_audio: ^1.0.9
